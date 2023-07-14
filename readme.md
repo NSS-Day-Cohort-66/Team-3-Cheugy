@@ -2,10 +2,10 @@
 
 <img src="crocs.jpeg" align="right" width="200px" />
 
-> ***Hey sis***, I’m looking for a someone to fix this application of mine. Low key just threw it together myself thinking I was the CEO of code.
-> >
-> Big yikes. It’s giving… broken. I really just wanted a smol app to give me a detailed list of my croc collection.
-> 
+> **_Hey sis_**, I’m looking for a someone to fix this application of mine. Low key just threw it together myself thinking I was the CEO of code.
+>
+> > Big yikes. It’s giving… broken. I really just wanted a small app to give me a detailed list of my croc collection.
+>
 > This ain’t it, chief. I took the L after the flips. Can you give this a glow up for me? Thanks fam.
 
 ## Here's what I was trying to do:
